@@ -1,0 +1,4 @@
+USE cmis320_MovieRental;
+source /MovieRental_create.sql;
+source /MovieRental_insert.sql;
+source /MovieRental_modify.sql;
